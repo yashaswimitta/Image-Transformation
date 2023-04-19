@@ -6,10 +6,11 @@ To perform image transformation such as Translation, Scaling, Shearing, Reflecti
 Anaconda - Python 3.7
 
 ## Algorithm:
-###Step1:
+Step1:
 
 Import the necessary libraries and read the original image and save it as a image variable.
-###Step2:
+
+Step2:
 
 Translate the image using M=np.float32([[1,0,20],[0,1,50],[0,0,1]]) translated_img=cv2.warpPerspective(input_img,M,(cols,rows))
 ###Step3:
