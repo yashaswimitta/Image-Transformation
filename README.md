@@ -182,7 +182,7 @@ plt.show()
 
 
 ### vi)Image Cropping
-![dip p5-8](https://user-images.githubusercontent.com/94619247/232987237-58ea6259-b3d1-412d-8843-f40b4b89ea9e.jpg)
+![dip 5-8](https://user-images.githubusercontent.com/94619247/232987237-58ea6259-b3d1-412d-8843-f40b4b89ea9e.jpg)
 
 
 
